@@ -1,1 +1,5 @@
 _book/
+compile.sh
+publish.sh
+gitbook.sh
+node_modules/
