@@ -10,7 +10,7 @@
   },
   "plugins": [
     "github",
-    "baidu",
+    "cnzz",
     "splitter",
     "sitemap",
     "page-footer-ex",
@@ -20,8 +20,10 @@
     "github": {
       "url": "https://github.com/coalchan/Tour-of-Soul/"
     },
-    "baidu": {
-      "token": "019ab49e1644dfbc3e229f460973ba25"
+    "cnzz": {
+      "visible": true,
+      "style": "0",
+      "siteid": "1277811965"
     },
     "sitemap": {
       "hostname": "https://tour-of-soul.luckypeng.com/"
