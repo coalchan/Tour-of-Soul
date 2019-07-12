@@ -8,6 +8,11 @@ if [[ -z "$msg" ]]; then
   exit -1
 fi
 
+git checkout master
+
+echo "---------------------------gitbook build..."
+gitbook build
+
 git checkout gh-pages
 
 echo "---------------------------commit static..."
