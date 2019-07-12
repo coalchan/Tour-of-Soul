@@ -1,6 +1,9 @@
 # Summary
 
-* [前言](README.md)
+* [关于作者](about.md)
+* [封面](cover.md)
+* [再版序](README.md)
+* [序](foreword.md)
 * [1. 乌镇](01-wuzhen.md)
 * [2. 雁荡山](02-yandangshan.md)
 * [3. 福州](03-fuzhou.md)
@@ -19,5 +22,6 @@
 * [16. 华山](16-huashan.md)
 * [17. 北京](17-beijing.md)
 * [鸣谢](epilogue.md)
+* [封底](back-cover.md)
 
 

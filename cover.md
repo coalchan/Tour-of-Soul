@@ -1,0 +1,1 @@
+![](img/others/cover.jpg)
