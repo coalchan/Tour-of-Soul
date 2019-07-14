@@ -9,9 +9,6 @@ if [[ -z "$msg" ]]; then
 fi
 git checkout master
 
-echo "---------------------------gitbook build..."
-gitbook build
-
 echo "---------------------------commit source..."
 git add .
 git commit -m "$msg"
