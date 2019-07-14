@@ -21,3 +21,5 @@
 我不曾历经沧桑，但浪过，不遗憾！
 
 ![](img/others/cover-spine.jpg)
+
+![](img/others/previews.jpeg)
